@@ -1,6 +1,8 @@
 # fancy-term
 Fancy configs for shell, vim &amp; tmux
 
+**TODO:** script which will install and setup all the stuff:
+
 ## Zsh
 
 https://ohmyz.sh
