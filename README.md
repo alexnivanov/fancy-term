@@ -11,6 +11,16 @@ https://ohmyz.sh
 
 https://github.com/ohmybash/oh-my-bash
 
+### Customization
+
+```sh
+vi ~/.bashrc
+```
+
+```
+OSH_THEME="clean"
+```
+
 ## Tmux
 
 https://github.com/gpakosz/.tmux
