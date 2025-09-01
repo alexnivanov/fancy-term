@@ -16,7 +16,7 @@ vi ~/.bashrc
 ```
 
 ```
-OSH_THEME="clean"
+OSH_THEME="powerline-plain"
 ```
 
 ## Tmux
