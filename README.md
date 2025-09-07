@@ -49,7 +49,7 @@ vi ~/.vim_runtime/my_configs.vim
 ```
 
 ```
-colorscheme unokai
+colorscheme dracula
 
 set number
 set relativenumber
