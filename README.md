@@ -29,6 +29,8 @@ https://github.com/gpakosz/.tmux
 
 ```
 # this is the place to override or undo settings
+
+# Fix nasty command timeout
 set-option -g repeat-time 0
 
 # start with mouse mode enabled
