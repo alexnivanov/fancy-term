@@ -19,6 +19,15 @@ vi ~/.bashrc
 OSH_THEME="minimal"
 ```
 
+```
+# Example aliases
+# alias bashconfig="mate ~/.bashrc"
+# alias ohmybash="mate ~/.oh-my-bash"
+
+# Enable line wrapping
+alias less='less -FRXc'
+```
+
 ## Tmux
 
 https://github.com/gpakosz/.tmux
