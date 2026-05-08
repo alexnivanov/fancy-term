@@ -26,6 +26,9 @@ OSH_THEME="minimal"
 
 # Enable line wrapping
 alias less='less -FRXc'
+
+# Disable noclobber (overwrite files)
+set +o noclobber
 ```
 
 ## Tmux
